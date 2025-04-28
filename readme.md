@@ -101,6 +101,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Here is the POSTMAN API DOCUMENTATION
 
+https://api.postman.com/collections/19430201-e04dc87a-9114-45d3-b8cd-fb53fda346b6?access_key=PMAT-01JSYMPAW53HA6HGEYYJYAY9XT
 
 
 ## API Endpoints
